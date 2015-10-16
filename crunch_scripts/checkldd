@@ -1,2 +1,2 @@
 #!/bin/sh
-ldd crunchrunner
+ldd /tmp/crunch-job-1001/src/crunch_scripts/crunchrunner
