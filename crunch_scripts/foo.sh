@@ -1,3 +1,3 @@
 #!/bin/sh
-sleep 4
+sleep 40
 echo "Hello world"
